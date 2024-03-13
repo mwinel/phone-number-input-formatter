@@ -1,6 +1,6 @@
 {
-  "name": "phone-number-input-formatter",
-  "version": "1.0.0",
+  "name": "@mwinel/phone-number-input-formatter",
+  "version": "1.0.1",
   "description": "\"Phone number input formatter\"",
   "main": "index.js",
   "scripts": {

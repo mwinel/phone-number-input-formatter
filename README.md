@@ -9,7 +9,7 @@ This is a simple and efficient phone number input formatter. It helps to format 
 To install this package, run the following command in your terminal:
 
 ```bash
-npm install phone-number-input-formatter
+npm install @mwinel/phone-number-input-formatter
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ npm install phone-number-input-formatter
 Here's a basic example of how to use this package:
 
 ```bash
-import { formatPhoneNumber } from 'phone-number-input-formatter';
+import { formatPhoneNumber } from '@mwinel/phone-number-input-formatter';
 
 const formattedNumber = formatPhoneNumber('1234567890', 'US');
 console.log(formattedNumber); // Outputs: (123) 456-7890
